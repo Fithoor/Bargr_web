@@ -13,8 +13,8 @@
         flex-direction: column;
         position: absolute;
         width: 85%;
-        height: 80vh;
-        top: 50%;
+        height: 75vh;
+        top: 45%;
         left: 50%;
         transform: translate(-50%, -50%);
         background-color: white;
@@ -47,7 +47,7 @@
         font-size: 1.3rem;
     }
     .nested_list{
-        top: 11rem;
+        top: 9rem;
         left: -1.2rem;
         background-color: whitesmoke;
         padding: 1rem;
@@ -57,12 +57,12 @@
         box-shadow: 3px 6px 6px rgba(66, 52, 52, 0.273);
     }
     .company{
-        top: 7.3rem;
+        top: 6.3rem;
         background-color: whitesmoke;
     }
     .connect{
         background-color: whitesmoke;
-        top: 4rem
+        top: 3rem
     }
  
 
@@ -73,7 +73,7 @@
     .menu{
         display: flex;
         position: absolute;
-        top: 3.5rem;
+        top: 2.5rem;
         right: 2.7rem;
         width: 2rem;
         height: 2rem;
@@ -144,6 +144,9 @@
     }
     .login a{
         color: black;
+    }
+     .Sign_up{
+        margin-bottom: 1rem;
     }
     .Sign_up a{
         background-color: #ff3e54df;
