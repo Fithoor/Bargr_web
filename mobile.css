@@ -14,9 +14,9 @@
         position: absolute;
         width: 85%;
         height: 75vh;
-        top: 55%;
+        top: 60%;
         left: 50%;
-        transform: translate(-50%, -45%);
+        transform: translate(-50%, -40%);
         background-color: white;
         /* text-align: center; */
         margin-top: 2rem;
